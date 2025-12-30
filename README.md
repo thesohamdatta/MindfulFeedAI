@@ -1,6 +1,9 @@
 # 🧠 MindfulFeed AI
 
 > A minimalist AI tool to classify YouTube content as **Mindful** or **Mindless** using a free local NLP model.
+>
+> <img width="427" height="440" alt="image" src="https://github.com/user-attachments/assets/c4660183-cf40-47ce-8044-6f618e6de433" />
+
 
 ---
 
